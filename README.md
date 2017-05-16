@@ -1,5 +1,5 @@
 # Módulo agregar sello a productos
-Este módulo permite agregar una imagen o sello a todos los productos que 
+Este módulo para <b>Prestashop 1.6<b> permite agregar una imagen o sello a todos los productos que 
 esten relacionados con la categoría registrada en el módulo.
 
 
