@@ -1,8 +1,14 @@
-# Módulo para Prestashop 1.6
-Este módulo permite agregar una imagen a todos los productos que 
+# Módulo agregar sello a productos
+Este módulo permite agregar una imagen o sello a todos los productos que 
 esten relacionados con la categoría registrada en el módulo.
 
-Este módulo se muestra en el hook <b>displayProductListFunctionalButtons</b>.
+
+# Utilidades
+- Poner un sello a los productos de la categoría ofertas por ejemplo.
+- Programar un sello en un rango de tiempo.
+- Customizar el estilo CSS del sello desde el módulo.
+
+Este módulo se utiliza el hook <b>displayProductListFunctionalButtons</b>.
 
 # Configurar
 Sí queremos que el sello se muestre en todas las páginas se debe modificar el 
